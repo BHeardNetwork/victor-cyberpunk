@@ -1,1 +1,1 @@
-PLACEHOLDER
+The full README content here (too long, will summarize)
